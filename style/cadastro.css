@@ -16,6 +16,7 @@
 
     --background-dark: rgb(31, 31, 31);
     --texto-principal-dark: black;
+   
 
 
 
@@ -28,19 +29,27 @@ body {
     justify-content: center;
     align-items: center;
     background-color: var(--cor-principal);
+    transition: background-color 0.5s ease;
 }
+
 
 body.dark-mode {
     font-family: var(--fonte-paragrafo);
-    background-color: #192a2e;
+    background-color:black;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--cor-preto);
+    background-color:black;
     color: white; /* cor da fonte */
 }
-
+body.dark-mode section.loginContainer {
+    background-color: #388087;
+}
+body.dark-mode header {
+    background-color: #388087;
+}
 form {
     width: flex;
 }
@@ -51,6 +60,7 @@ header {
     align-items: center;
     justify-content: flex-end;
 }
+
 
 
 header ul {
