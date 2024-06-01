@@ -11,4 +11,5 @@
 ### Alunos  
 - Aline Bianca Arantes da Silva - 01617756  
 - Maria Karolina Rodrigues De Andrade - 01631286  
-- Emerson Wallace Barcelos de Araújo - 01609132  
+- Emerson Wallace Barcelos de Araújo - 01609132
+- Vladison Lucas Costa Dos Santos - 01657950
